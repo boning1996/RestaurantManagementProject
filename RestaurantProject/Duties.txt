@@ -1,0 +1,27 @@
+Bo Ning Wang
+- Designed the Server Scene, ServerScene.fxml
+- Wrote the ServerController class.
+- Designed the Main Scene, MainScene.fxml
+- Wrote the MainController class.
+- Added the Observer and Observable interface and implemented in the Employee and the Controller classes.
+
+Benli Wang
+- Designed the Chef Scene, ChefScene.fxml
+- Wrote the ChefController class.
+- Designed the Manager Scene, ManagerScene.fxml
+- Wrote the ManagerController class.
+- Serialize orders and ingredients to OrderManager and IngredientManager.
+- fix the method in Manager.java, Chef.java, Server.java, OrderManager and Inventory2 for phase2 extra requirements.
+
+Tianfangtong Zhang
+- Designed the Menu Scene, Menu.fxml and nextMenu,fxml
+- Wrote the MenuController class
+- Designed the Cart Scene, Cart.fxml
+- Wrote the CartController class.
+- Designed the OrderView Scene, OrderView.fxml
+- Wrote the OrderController class
+
+Jinyang Yan
+- Wrote EmployeeManager.java
+- Fix methods in Model package
+- Draw the UML diagram
